@@ -43,7 +43,7 @@ const routes = [
 
 
 const router = createRouter({
-    history:createWebHistory('https://dbanker.netlify.app'),
+    history:createWebHistory(),
     routes
 })
 
