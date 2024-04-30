@@ -4,7 +4,7 @@
         <div class="items-center lg:flex">
             <div class="w-full lg:w-1/2">
                 <div class="lg:max-w-lg">
-                    <h1 class="text-3xl font-semibold text-gray-800 dark:text-white lg:text-4xl">Best place to choose your <br> Affordable <span class="text-blue-500 ">Services</span></h1>
+                    <h1 class="text-3xl font-semibold text-gray-800 dark:text-white lg:text-4xl">Best place to choose your <br> Affordable <span class="text-blue-500 ">Web Services</span></h1>
                     
                     <p class="mt-3 text-gray-600 dark:text-gray-400">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro beatae error laborum ab amet sunt recusandae? Reiciendis natus perspiciatis optio.</p>
                     

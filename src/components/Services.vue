@@ -1,7 +1,7 @@
 <template>
-
-<section class="bg-white dark:bg-gray-900 mt-20">
-    <div class="container px-6 py-10 mx-auto">
+    <br>
+<section class="mt-20">
+    <div class="container  mx-auto">
         <h1 class="text-2xl font-semibold text-center text-gray-800 capitalize lg:text-3xl dark:text-white">explore our <br> awesome <span class="text-blue-500">Web Services</span></h1>
 
         <div class="grid grid-cols-1 gap-8 mt-8 xl:mt-12 xl:gap-16 md:grid-cols-2 xl:grid-cols-3">
@@ -63,10 +63,10 @@
             </div>
         </div>
     </div>
-</section>
 
-<section class="bg-white dark:bg-gray-900">
-    <div class="container px-6 py-10 mx-auto">
+
+
+    <div class="container  mx-auto">
         <div class="grid grid-cols-1 gap-8  xl:mt-12 xl:gap-16 md:grid-cols-2 xl:grid-cols-3">
             <div class="flex flex-col items-center p-6 space-y-3 text-center bg-gray-100 rounded-xl dark:bg-gray-800">
                 <span class="inline-block p-3 text-blue-500 bg-blue-100 rounded-full dark:text-white dark:bg-blue-500">
@@ -126,7 +126,12 @@
             </div>
         </div>
     </div>
-</section>
+
+
+
+<div class="border border-blue-500 bg-blue-500 w-1/5 text-white flex justify-center m-auto rounded h-10 mb-10">
+    <a href="/request-service" class="mt-2">Request Service</a>
+</div>
 
 
 
@@ -221,7 +226,8 @@
         </div>
     </div>
 
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#f3f4f5" fill-opacity="1" d="M0,64L48,58.7C96,53,192,43,288,74.7C384,107,480,181,576,192C672,203,768,149,864,138.7C960,128,1056,160,1152,160C1248,160,1344,128,1392,112L1440,96L1440,0L1392,0C1344,0,1248,0,1152,0C1056,0,960,0,864,0C768,0,672,0,576,0C480,0,384,0,288,0C192,0,96,0,48,0L0,0Z"></path></svg>
+    
+</section>
 </section>
 
 </template>

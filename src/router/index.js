@@ -4,6 +4,7 @@ import About from '../components/About.vue'
 import Pricing from '../components/Pricing.vue'
 import Services from '../components/Services.vue'
 import DefaultLayout from '../components/DefaultLayout.vue'
+import RequestService from '../pages/RequestService.vue'
 
 
 const routes = [
@@ -30,6 +31,11 @@ const routes = [
                 path:"/services",
                 name:"services",
                 component:Services
+               },
+               {
+                path:"/request-service",
+                name:"request-service",
+                component:RequestService
                }
         ]
        }
